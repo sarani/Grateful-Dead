@@ -14,3 +14,29 @@ body {
 	margin-bottom: 0px;
 	margin-left: auto;
 }
+.navigation {
+	margin: 0px;
+	padding: 20px;
+}
+.wrapper .navigation table {
+	border: thick solid #606;
+}
+
+.navigation td {
+	padding-right: 25px;
+	padding-left: 25px;
+}
+.navigation a {
+	color: #906;
+	text-decoration: none;
+}
+.thispage {
+	background-color: #9C6;
+}
+.wrapper .content p {
+	margin: auto;
+	padding-top: 5px;
+	padding-right: 12px;
+	padding-bottom: 0px;
+	padding-left: 12px;
+}
